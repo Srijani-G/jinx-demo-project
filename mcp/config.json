@@ -1,0 +1,5 @@
+﻿{
+  "name": "internal-dev-tools",
+  "transport": "stdio",
+  "tools": ["search_runbooks", "trigger_deploy"]
+}
