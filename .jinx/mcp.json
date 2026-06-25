@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "jinx": {
+      "type": "http",
+      "url": "https://08fr9345-8077.inc1.devtunnels.ms/mcp/",
+      "headers": { "X-Jinx-User": "${JINX_USER}", "X-Jinx-Name": "${JINX_NAME:-}" }
+    }
+  }
+}
